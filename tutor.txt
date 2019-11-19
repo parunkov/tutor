@@ -1,4 +1,8 @@
 Probe 1
 Probe 2
+<<<<<<< HEAD
 Probe 4
 Probe 6
+=======
+Probe 3
+>>>>>>> 4897c851346d10dd9387d02c21d60b3bfc1342e5
